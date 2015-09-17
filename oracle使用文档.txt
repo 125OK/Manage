@@ -1,0 +1,14 @@
+GLZWDB =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 10.15.30.55)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = glzwdb)
+    )
+  )
+
+
+”√ªß√˚:crjwgr
+√‹¬Î£∫GLwgr2015
+
+
